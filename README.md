@@ -1,4 +1,6 @@
-# 史蒂夫·布兰克资源大全中文版
+# 史蒂夫·布兰克(Steve Blank)资源大全中文版
+
+![于布朗大学演讲撷取内容与简单对白](funny-steve-blank.gif)
 
 > 我们十分推荐你可以直接阅读原文 [Steve Blank 网站](https://steveblank.com/)上的资源，然而如果你需要一点导览或翻译，欢迎使用本资源大全。
 
