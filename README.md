@@ -28,7 +28,7 @@
 	- 谈论为什么应该接触到更多（例如 100 个客户）而非只接触 3 个就停下来
 - [这是最好的结果 (3分钟)](https://vimeo.com/groups/213077/videos/79764479)
 - [加速接近最棒的点子 (4分钟)](https://vimeo.com/groups/213077/videos/81146693)
-- [客户开发是否在制药业也有效？ (6分钟)]https://vimeo.com/groups/213077/videos/80568718)
+- [客户开发是否在制药业也有效？ (6分钟)](https://vimeo.com/groups/213077/videos/80568718)
 - [客户开发的三个阶段 (40 秒)](https://vimeo.com/groups/204136/videos/87303495)
     　- 简短快速的讲解客户开发的三个阶段
 
